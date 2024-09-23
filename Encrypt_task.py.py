@@ -48,7 +48,7 @@ class PDFEncryptionTool:
         
         self.pdf_handler.create_pdf_with_text(encrypted_text.strip())
 
-# Usage
+
 if __name__ == "__main__":
     input_pdf_path = r"C:\Users\USER\Assignment\FOSSU Lagos Unilag Chapter.pdf"
     output_pdf_path = "Fossu_encrypted_pdf.pdf"
