@@ -20,5 +20,5 @@ Requirements
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/pdf-encryption-tool.git
+   git clone https://github.com/Halimat100/pdf-encryption-tool.git
    cd pdf-encryption-tool
